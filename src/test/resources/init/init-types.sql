@@ -1,0 +1,1 @@
+CREATE TYPE public.some_type AS ENUM ('ONE', 'TWO');

@@ -1,0 +1,11 @@
+PUBLIC.TESTS:
+  - ID: "b602d09d-8bd7-4899-8f77-70db923ea518"
+    NAME: "Some test"
+    TAGS: "{iPhone 14, Pro}"
+    NUMBERS: "{1,123,432}"
+    OTHER_NUMBERS: "{1.6, 123.44, 432.0, 345}"
+    TYPE: "TWO"
+    TYPES: "{ONE, TWO}"
+    DAY: "2022-10-17"
+    CREATION_TIME: "2022-10-17 00:00:00.000"
+    SOME_OBJECT: "{\"limit\":12, \"message\": \"asd\"}"
